@@ -1,0 +1,9 @@
+c:\users\garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\bin\Debug\Tools4UMngrScrn.exe.config
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\bin\Debug\Tools4UMngrScrn.exe
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\bin\Debug\Tools4UMngrScrn.pdb
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.csprojResolveAssemblyReference.cache
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.Form1.resources
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.Properties.Resources.resources
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.csproj.GenerateResource.Cache
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.exe
+C:\Users\Garrett\documents\visual studio 2013\Projects\Tools4UMngrScrn\Tools4UMngrScrn\obj\Debug\Tools4UMngrScrn.pdb
